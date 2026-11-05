@@ -1,2 +1,1 @@
-print("Muhammad Faqihul Basyar")
-print("2606859723")
+input("Masukkan nama anda:")
